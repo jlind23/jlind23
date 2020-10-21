@@ -2,8 +2,8 @@
 
 - 📫 How to reach me: julien.lind@decathlon.com for any profesionnal stuff and vj.lind@gmail.com for other kind of things.
 - 🔭 I’m currently working on two things
-- - I am leading Decathlon Cloud Platform Engineering initiative with the aim of removing burdens on engineering teams and let them focus on business added functionalities
-- - I am also Dir. of engineering for Decathlon's in store tools such as mobile or webapp to handle stock management, inventories, POS system and so on.
+&#8594; I am leading Decathlon Cloud Platform Engineering initiative with the aim of removing burdens on engineering teams and let them focus on business added functionalities
+&#8594; I am also Dir. of engineering for Decathlon's in store tools such as mobile or webapp to handle stock management, inventories, POS system and so on.
 - 🌱 I’m currently reading https://resilient-management.com/
 
 <!--
