@@ -1,6 +1,6 @@
 ### Hi there! My name is Julien and i am developer deeply passionate about CI/CD and software craftmanship practices.
 
-- 📫 How to reach me: julien.lind@decathlon.com for any profesionnal stuff and vj.lind@gmail.com for other kind of things. You can ping me 24 hours a day. I like responding quickly.
+- 📫 How to reach me: julien.lind@decathlon.com for any profesionnal stuff and vj.lind@gmail.com for other kind of things. You can ping me at any time, i will do my best to shortly answer.
 - 🔭 I’m currently working on two things
 
 &#8594; I am leading Decathlon Cloud Platform Engineering initiative with the aim of removing burdens on engineering teams and let them focus on business added functionalities
