@@ -1,11 +1,13 @@
 ### Hi there! My name is Julien and i am developer deeply passionate about CI/CD and software craftmanship practices.
 
-- 📫 How to reach me: julien.lind@decathlon.com for any profesionnal stuff and vj.lind@gmail.com for other kind of things. You can ping me at any time, i will do my best to shortly answer.
+- 📫 How to reach me: vj.lind@gmail.com. You can ping me at any time, i will do my best to shortly answer.
 - 🔭 I’m currently working on two things
 
-&#8594; I am leading Decathlon Cloud Platform Engineering initiative with the aim of removing burdens on engineering teams and let them focus on business added functionalities
+&#8594; Currently Director. Software Engineering inside Elastic observability org with the goal of Developing the integration ecosystem.
 
-&#8594; I am also Dir. of engineering for Decathlon's in store tools such as mobile or webapp to handle stock management, inventories, POS system and so on.
+&#8594; Former Decathlon Cloud Platform Engineering leader with the aim of removing burdens on engineering teams and let them focus on business added functionalities
+
+&#8594; Former Dir. of engineering for Decathlon's in store tools such as mobile or webapp to handle stock management, inventories, POS system and so on.
 - 🌱 I’m currently reading https://resilient-management.com/
 
 ### Few things about me:
