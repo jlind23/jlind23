@@ -12,7 +12,6 @@
 
 ### Few things about me:
 - I definitely hate meetings that are not properly prepared. Read those tips to help you out : https://medium.com/decathlondevelopers/11-tips-to-stop-wasting-time-in-meeting-and-start-working-asynchronously-95cbd8b26064
-- 💻 I work a bit on the weekends. This is my choice. I do not expect people to work on the weekend. I might chat people things, but unless the thing says URGENT, it can always wait until work begins on Monday.
 - 🏉 I love watching rugby, i do not play anymore after some serious injuries, that's life.
 - My Rugby career is over (has it begun someday? 😄 ) and now i really enjoy running! 🏃‍
 
