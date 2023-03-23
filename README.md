@@ -1,9 +1,9 @@
 ### Hi there! My name is Julien and i am developer deeply passionate about CI/CD and software craftmanship practices.
 
 - 📫 How to reach me: vj.lind@gmail.com. You can ping me at any time, i will do my best to shortly answer.
-- 🔭 I’m currently working on two things
+- 🔭 I’m currently working on Elastic Agent open source software
 
-&#8594; Currently Director. Software Engineering inside Elastic observability org with the goal of Developing the integration ecosystem.
+&#8594; Currently Director. Software Engineering inside Elastic Platform org with the goal of developing our Ingestion stragey. I am leading engineering teams for Elastic Agent, Beats and Fleet.
 
 &#8594; Former Decathlon Cloud Platform Engineering leader with the aim of removing burdens on engineering teams and let them focus on business added functionalities
 
