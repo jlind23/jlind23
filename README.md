@@ -1,7 +1,7 @@
 ### Hi there! My name is Julien and i am developer deeply passionate about CI/CD and software craftmanship practices.
 
 - 📫 How to reach me: vj.lind@gmail.com. You can ping me at any time, i will do my best to shortly answer.
-- 🔭 I’m currently working on Elastic Agent open source software
+- 🔭 I’m currently working on Elastic Agent, an open source software to observe and protect your hosts.
 
 &#8594; Currently Director. Software Engineering inside Elastic Platform org with the goal of developing our Ingestion stragey. I am leading engineering teams for Elastic Agent, Beats and Fleet.
 
