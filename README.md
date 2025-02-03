@@ -17,7 +17,7 @@ Done reading:
 - I definitely hate meetings that are not properly prepared. Read those tips to help you out : https://medium.com/decathlondevelopers/11-tips-to-stop-wasting-time-in-meeting-and-start-working-asynchronously-95cbd8b26064
 - 🏉 I love watching rugby, i do not play anymore after some serious injuries, that's life.
 - My Rugby career is over (has it begun someday? 😄 ) and now i really enjoy running! 🏃‍
-- Started Judo in 2023 and enjoying it so far
+- Started Judo in 2023 and enjoying it so far [![bluebelt](https://cdn3.emoji.gg/emojis/4129-bluebelt.png)](https://emoji.gg/emoji/4129-bluebelt)
 
 
 
