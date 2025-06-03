@@ -3,12 +3,11 @@
 - 📫 How to reach me: vj.lind@gmail.com. You can ping me at any time, i will do my best to quickly answer.
 - 🔭 I’m currently working on Elastic Agent, Fleet and OpenTelemetry. All open source softwares to observe and protect your hosts.
 
-&#8594; Currently Director. Software Engineering inside Elastic Platform org with the goal of developing our Ingestion strategy. I am leading engineering teams for Elastic Agent, Beats and Fleet.
+&#8594; Currently Director. Software Engineering inside Elastic Observability org with the goal of developing our Ingestion strategy. I am leading engineering teams for Elastic Agent, Beats, APM Server, Elastic Distribution of OpenTelemetry (EDOT) and Fleet.
 
 &#8594; Former Decathlon Cloud Platform Engineering leader with the aim of removing burdens on engineering teams and let them focus on business added functionalities
 
 &#8594; Former Dir. of engineering for Decathlon's in store tools such as mobile or webapp to handle stock management, inventories, POS system and so on.
-- 🌱 I’m currently reading [Culture Map](https://www.amazon.com/Culture-Map-Decoding-People-Cultures/dp/1610392760)
 
 Done reading:
 - https://resilient-management.com/
